@@ -13,8 +13,9 @@ sites:
      url: https://www.youtube.com/
    - name: ee-class
      url: https://ncueeclass.ncu.edu.tw   
-   - name: opensea
-     url: https://opensea.io
+   - name: NCU portal
+     url: https://portal.ncu.edu.tw/login 
+  
     
 
 status-website:
